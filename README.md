@@ -1,5 +1,5 @@
-# node-mongo-registration-login-api
+# Node-mongo-registration-login-api
 
-NodeJS + MongoDB API for User Management, Authentication and Registration
+###### NodeJS + MongoDB API for User Management, Authentication and Registration
+###### Run npm install; npm start
 
-For documentation and instructions check out http://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management# Node-Mongo-Registration-Login-api
